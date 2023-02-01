@@ -4,3 +4,5 @@ declare module '*.vue' {
   const component: DefineComponent<{}, {}, any>
   export default component
 }
+declare module "vu3-autocounter"
+declare module "vue3-circle-progress"
