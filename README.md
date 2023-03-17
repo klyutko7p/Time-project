@@ -1,4 +1,5 @@
 # Time project
+![image](https://user-images.githubusercontent.com/95645570/226003154-6bf833ef-fd87-4af2-922c-4a152c9b5721.png)
 
 ## Project setup
 ```
